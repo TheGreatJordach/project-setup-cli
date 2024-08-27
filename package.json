@@ -1,7 +1,10 @@
 {
-  "name": "project-setup-cli",
+  "name": "makaya",
   "version": "1.0.0",
   "bin": {
-    "project-setup-cli": "index.js"
+    "makaya": "index.js"
+  },
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
   }
 }
