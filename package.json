@@ -1,0 +1,7 @@
+{
+  "name": "project-setup-cli",
+  "version": "1.0.0",
+  "bin": {
+    "project-setup-cli": "index.js"
+  }
+}
